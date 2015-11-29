@@ -1,0 +1,5 @@
+BEIGN 
+	READ(IN); 
+	OUT:= IN+100; 
+	WRITE(OUT); 
+END

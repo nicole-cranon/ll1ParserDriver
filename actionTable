@@ -1,0 +1,14 @@
+states 22
+symbolTypes 15
+Letter Digit Blank + - = : , ; ( ) _ Tab Eol Other
+MoveAppend MoveAppend MoveNoAppend HaltAppend MoveAppend Error MoveAppend HaltAppend HaltAppend HaltAppend HaltAppend Error MoveNoAppend MoveNoAppend Error
+MoveAppend MoveAppend HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse MoveAppend HaltReuse HaltReuse Error
+HaltReuse MoveNoAppend HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse  Error
+HaltReuse HaltReuse MoveNoAppend HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse MoveNoAppend MoveNoAppend Error
+HaltReuse HaltReuse HaltReuse HaltReuse MoveNoAppend HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse HaltReuse Error
+MoveNoAppend MoveNoAppend  MoveNoAppend MoveNoAppend MoveNoAppend MoveNoAppend MoveNoAppend MoveNoAppend MoveNoAppend MoveNoAppend MoveNoAppend MoveNoAppend MoveNoAppend HaltReuse Error
+Error Error Error Error Error HaltAppend Error Error Error Error Error Error Error Error Error
+Error Error Error Error Error Error Error Error Error Error Error Error Error Error Error
+Error Error Error Error Error Error Error Error Error Error Error Error Error Error Error
+Error Error Error Error Error Error Error Error Error Error Error Error Error Error Error
+Error Error Error Error Error Error Error Error Error Error Error Error Error Error Error
